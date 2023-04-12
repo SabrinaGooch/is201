@@ -1,0 +1,47 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color: rgb(148, 38, 185)
+}
+h1, h3{
+    color:rgb(255, 0, 162)
+}
+.thisisaclass{
+    font-style: italic;
+}
+.underline{
+    text-decoration: dashed;
+}
+.box1{
+    border-width: 1px;
+    border-style: dashed;
+}
+.box2{
+    border-width: 1px;
+    border-style: dashed;
+    position: absolute;
+}
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 200px;
+    bottom: 39px;
+}
+.rightmenu {
+    top: 114px;
+    right: 9px;
+    width: 190px;
+    bottom: 39px;
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
